@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on both Web2 and Web3 projects.
+
+📫 How to reach me:
+
+![](https://dcbadge.vercel.app/api/shield/475365001901768706)
+<p>
+  <a href="https://t.me/oo00spy00oo" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
