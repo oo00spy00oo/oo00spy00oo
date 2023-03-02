@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on both Web2 and Web3 projects.
 
-### Things I'm familiar with:
+## Things I'm familiar with:
 
 #### Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,17 +31,8 @@ Here are some ideas to get you started:
 
 
 #### Framework
-![]()
-![]()
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
 ![]()
 ![]()
 
@@ -49,15 +40,11 @@ Here are some ideas to get you started:
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 ![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![]()
-![]()
-![]()
-![]()
 
 #### DevOps
-![]()
-![]()
-![]()
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![]()
 ![]()
 ![]()
@@ -77,9 +64,6 @@ Here are some ideas to get you started:
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![]()
-![]()
-![]()
 
 #### Database
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -102,7 +86,7 @@ Here are some ideas to get you started:
 ![]()
 ![]()
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 ![](https://dcbadge.vercel.app/api/shield/475365001901768706)
 <p>
