@@ -23,17 +23,23 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21y6u4j7fhpp7wfu4r2wp54fy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## 📫 How to reach me:
+### 📫 How to reach me:
+<table style="border-collapse: collapse; border: none;">
+  <td>
+    <img alt="Discrod" src="https://dcbadge.vercel.app/api/shield/475365001901768706" />
+  </td>
+  <td>
+    <p>
+      <a href="https://t.me/oo00spy00oo" target="_blank"
+        ><img
+          alt="Telegram"
+          src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      /></a>
+    </p>
+  </td>
+</table>
 
-![](https://dcbadge.vercel.app/api/shield/475365001901768706)
-
-<p>
-  <a href="https://t.me/oo00spy00oo" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
-## Things I'm familiar with:
+### Things I'm familiar with:
 
 |  | Description |
 | ----------- | ----------- |
