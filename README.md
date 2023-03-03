@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ## Things I'm familiar with:
 
 #### Language
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="64" height="64" /></div>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,6 +55,8 @@ Here are some ideas to get you started:
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 #### DevOps
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="64" height="64" /></div>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
