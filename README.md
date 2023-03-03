@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on both Web2 and Web3 projects.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21y6u4j7fhpp7wfu4r2wp54fy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## Things I'm familiar with:
 
 #### Language
