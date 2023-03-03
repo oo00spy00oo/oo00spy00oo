@@ -1,10 +1,8 @@
 ![Header](./github-header-image.png)
 
+<!--
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+%3E%3E%3E;I'm+S.K!)](https://git.io/typing-svg)
-
-<!--
 **oo00spy00oo/oo00spy00oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on both Web2 and Web3 projects.
+> 🔭 I’m currently working on:
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web2+%26+Web3)](https://git.io/typing-svg)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21y6u4j7fhpp7wfu4r2wp54fy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
