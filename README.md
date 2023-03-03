@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 ![](https://dcbadge.vercel.app/api/shield/475365001901768706)
+
 <p>
   <a href="https://t.me/oo00spy00oo" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
